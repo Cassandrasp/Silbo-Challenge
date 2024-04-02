@@ -1,0 +1,61 @@
+input,intent
+Hola me gustaría comprar una camiseta blanca,1
+Quiero adquirir un pantalón,1
+¿podría comprar unos zapatos?,1
+¿Tienes camisetas de mi talla?,1
+Estoy interesado en unos pantalones vaqueros,1
+Busco una camiseta bonita,1
+Quiero comprar ropa,1
+Necesito una camiseta de manga corta para este verano,1
+Quiero unos pantalones calentitos para el invierno,1
+¿Hay zapatos de la talla 45?,1
+Estoy buscando una chaqueta a juego con mi outfit,1
+Camiseta de manga larga,1
+Necesito ropa para renovar mi armario,1
+¿Puedo comprar una chaqueta bonita?,1
+Hay camisetas azules,1
+Quiero obtener unos pantalones de esta marca,1
+Quiero conseguir una chaqueta que me proteja bien del frío,1
+Mi deseo es obtener una camiseta de tirantes,1
+Comprar pantalon rojo,1
+Buenas me gustaría una camiseta negra básica,1
+Cuál es la variedad de colores para esta camiseta,2
+Que tallas disponibles tienes del pantalon,2
+¿De qué está hecho este producto?,2
+¿Puedo personalizar esta camiseta?,2
+¿El precio de esta prenda está rebajado?,2
+¿Cuál es la calidad de impresión de los estampados de la ropa?,2
+¿Cuál es la durabilidad de la ropa?,2
+¿Cuál es la disponibilidad de esta prenda?,2
+Quiero saber si puedo meter la camiseta a la lavadora,2
+¿Si lavo los pantalones en agua caliente encongerán?,2
+Qué tipo de tela se usa en este tipo de prendas,2
+Esta prenda tiene garantía en caso de que se me rompa o se estropee,2
+Cuál es la resistencia de estos zapatos,2
+¿Este abrigo es resistente al agua?,2
+El abrigo es ajustable,2
+Este abrigo aguanta temperaturas bajo 0 grados,2
+Cuál es la longitud de la manga de esta camiseta,2
+¿Qué largo tienen pantalones vaqueros?,2
+¿Cuánto pesa el suéter?,2
+¿Podrían proporcionarme más detalles sobre el material de esta camisa?,2
+¿Cuál es la política de devolución de la empresa?,3
+¿Dónde opera la empresa?,3
+¿Tenéis política de sostenibilidad?,3
+¿Cuánta gente trabaja hay trabajando actualmente?,3
+¿Qué proceso pasan ?,3
+Tenéis garantía en la empresa,3
+En esta tienda se puede pagar con tarjeta,3
+Existe tienda física,3
+Cuál es el teléfono de contacto,3
+Si tengo una incidencia cómo puedo gestionarla,3
+Tenéis horario de atención al cliente,3
+Envíais las prendas a cualquier punto de España,3
+¿Qué tiempos trabajais de entrega de pedidos?,3
+Hay opciones de envío express,3
+Puedo recibir asistencia personal en la compra,3
+¿Cuál es la filosofía detrás de su marca de ropa? ,3
+¿Dónde fabrican sus prendas? ,3
+Hola me gustaría saber más sobre su empresa. ¿Podrían decirme cuánto tiempo llevan en el negocio?,3
+¿Tienen alguna colaboración con otras marcas o diseñadores? ,3
+¿Ofrecen algún programa de fidelización?,3
