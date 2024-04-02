@@ -1,0 +1,61 @@
+input,intent
+Quiero comprar una camiseta roja en talla S.,1
+Estoy interesado en adquirir unos pantalones negros.,1
+Deseo comprar un vestido azul en talla M.,1
+Necesito comprar una chaqueta gris.,1
+¿Cuánto cuesta una camisa verde en talla L?,1
+¿Tienes sudaderas en negro?,1
+Busco una falda azul.,1
+Estoy buscando un jersey blanco.,1
+Quiero comprar un abrigo gris.,1
+¿Tienes shorts en azul?,1
+¿Puedo comprar una bufanda verde?,1
+¿Dónde puedo comprar un gorro rojo?,1
+¿Tienes chalecos en negro?,1
+¿Dónde puedo comprar un traje blanco?,1
+¿Hay blusas azules disponibles?,1
+¿Dónde puedo encontrar ponchos verdes?,1
+Quiero comprar un cinturón negro.,1
+¿Venden calcetines rojos?,1
+¿Cuál es el precio de las camisetas rojas?,1
+¿Tienen vestidos azules disponibles?,1
+¿Puedes decirme qué materiales se usaron para hacer esa camiseta roja?,2
+¿Podrías proporcionarme más detalles sobre los pantalones negros?,2
+"Me gustaría conocer más sobre el vestido azul en talla M, ¿tienes información adicional?",2
+¿Cuál es la composición de la chaqueta gris que tienes en stock?,2
+¿Tienes información sobre la camisa verde en talla L? Estoy interesado en saber más.,2
+¿Puedes darme más detalles sobre las sudaderas negras que vendes?,2
+Quiero saber más sobre la falda azul que tienes en tu tienda.,2
+¿Puedes proporcionarme información detallada sobre el jersey blanco?,2
+Me gustaría obtener más información sobre el abrigo gris que tienes en exhibición.,2
+¿Tienes información adicional sobre los shorts azules que vendes?,2
+¿Puedes decirme más sobre la bufanda verde que está en tu catálogo?,2
+¿Dónde puedo encontrar información sobre los gorros rojos que vendes?,2
+¿Podrías proporcionarme más detalles sobre los chalecos negros que tienes en existencia?,2
+Quiero saber más sobre los trajes blancos que tienes en tu tienda.,2
+¿Tienes información adicional sobre las blusas azules que vendes?,2
+Me gustaría obtener más detalles sobre los ponchos verdes que tienes en stock.,2
+¿Cuál es la información de los cinturones negros que tienes en tu tienda?,2
+¿Podrías proporcionarme más detalles sobre los calcetines rojos que vendes?,2
+¿Tienes información sobre los precios de las camisetas rojas que ofreces?,2
+¿Puedes decirme más sobre los vestidos azules que tienes disponibles?,2
+¿Puedes decirme quién es el vendedor de esta camiseta roja?,3
+¿Quién es el proveedor de los pantalones negros que tienes en tu tienda?,3
+¿Podrías proporcionarme más información sobre la tienda que vende el vestido azul en talla M?,3
+Me gustaría conocer más sobre la empresa que suministra la chaqueta gris.,3
+¿Quién es el fabricante de la camisa verde en talla L que vendes?,3
+¿Puedes decirme más sobre la compañía que ofrece las sudaderas negras?,3
+Quiero saber quién es el distribuidor de la falda azul que tienes en stock.,3
+¿Podrías proporcionarme información sobre el proveedor del jersey blanco?,3
+Me gustaría obtener más detalles sobre la empresa que fabrica el abrigo gris que tienes en exhibición.,3
+¿Quién es el fabricante de los shorts azules que vendes?,3
+¿Podrías decirme quién es el proveedor de la bufanda verde que está en tu catálogo?,3
+¿Dónde puedo encontrar información sobre el proveedor de los gorros rojos que vendes?,3
+Quiero saber más sobre la empresa que suministra los chalecos negros que tienes en existencia.,3
+¿Quién es el proveedor de los trajes blancos que tienes en tu tienda?,3
+¿Podrías proporcionarme más detalles sobre la compañía que ofrece las blusas azules que vendes?,3
+Me gustaría obtener información sobre el distribuidor de los ponchos verdes que tienes en stock.,3
+¿Quién es el fabricante de los cinturones negros que tienes en tu tienda?,3
+¿Podrías decirme quién es el proveedor de los calcetines rojos que vendes?,3
+Quiero conocer más sobre la empresa que suministra las camisetas rojas que ofreces.,3
+¿Puedes proporcionarme información sobre el vendedor de los vestidos azules que tienes disponibles?,3
