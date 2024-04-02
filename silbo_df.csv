@@ -1,0 +1,61 @@
+﻿input,intent
+Quisiera comprar una camiseta.,1
+Me gustaría pedir una camiseta.,1
+Necesito una camiseta nueva.,1
+Quiero una camiseta de algodón.,1
+Estoy buscando una camiseta en talla grande.,1
+Deseo comprar una camiseta con estampado.,1
+¿Puedo pedir una camiseta en color azul?,1
+Necesitaría una camiseta de manga corta.,1
+Estoy interesado en una camiseta deportiva.,1
+Quiero comprar una camiseta para correr.,1
+Me gustaría adquirir una camiseta negra.,1
+Quisiera una camiseta sin etiqueta.,1
+Necesito una camiseta para un regalo.,1
+Deseo pedir una camiseta en talla mediana.,1
+¿Podría tener una camiseta en oferta?,1
+Estoy buscando una camiseta con cuello en V.,1
+Quiero una camiseta personalizada.,1
+Me gustaría una camiseta blanca básica.,1
+Quisiera ordenar una camiseta para el verano.,1
+Necesito una camiseta resistente al desgaste.,1
+¿De qué material está hecha esta camiseta?,2
+¿Cuál es el precio de esta camiseta?,2
+¿Tienen esta camiseta en otros colores?,2
+¿Esta camiseta está disponible en talla pequeña?,2
+¿Pueden decirme más sobre el diseño de esta camiseta?,2
+¿Esta camiseta es resistente al encogimiento?,2
+¿Cómo debo lavar esta camiseta para que no se dañe?,2
+¿Esta camiseta está hecha de algodón orgánico?,2
+¿Ofrecen descuento si compro más de una camiseta?,2
+¿Puedo personalizar esta camiseta con un diseño propio?,2
+¿Esta camiseta viene con garantía?,2
+¿De dónde se importa el material de esta camiseta?,2
+¿Esta camiseta está disponible en edición limitada?,2
+¿Tienen esta camiseta en estilo unisex?,2
+"¿Cómo se ajusta esta camiseta, es ajustada o suelta?",2
+¿Esta camiseta protege contra los rayos UV?,2
+¿Puedo ver esta camiseta en diferentes estilos?,2
+¿Cuánto tiempo tarda el envío de esta camiseta?,2
+¿Esta camiseta tiene opiniones o reseñas que pueda leer?,2
+¿Cuál es la política de devolución para esta camiseta?,2
+¿Cuánto tiempo lleva la empresa en el negocio de venta de camisetas?,3
+¿Dónde está ubicada la sede de su empresa?,3
+¿La empresa fabrica sus camisetas de manera sostenible?,3
+¿Ofrece la empresa envíos internacionales?,3
+¿Cómo se compromete su empresa con la responsabilidad social?,3
+¿Tienen tiendas físicas donde pueda ver las camisetas?,3
+¿Cómo selecciona la empresa los materiales para sus camisetas?,3
+¿Ofrece la empresa algún programa de lealtad o descuentos para clientes frecuentes?,3
+¿Cuál es la misión y los valores de su empresa?,3
+¿Cómo maneja la empresa las devoluciones y los cambios?,3
+¿La empresa colabora con diseñadores locales para sus camisetas?,3
+¿Cómo asegura la empresa la calidad de sus camisetas?,3
+¿La empresa participa en algún tipo de obras caritativas o comunitarias?,3
+¿Puede la empresa hacer envíos de camisetas a múltiples direcciones?,3
+¿Qué medidas toma la empresa para proteger la información del cliente?,3
+¿La empresa ha recibido algún premio o reconocimiento?,3
+¿Cómo maneja la empresa las quejas y sugerencias de los clientes?,3
+¿La empresa ofrece servicios de personalización para pedidos grandes?,3
+¿Cuál es la política de sostenibilidad de la empresa?,3
+¿Cómo puedo suscribirme a las actualizaciones y ofertas especiales de la empresa?,3
