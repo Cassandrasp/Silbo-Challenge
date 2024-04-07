@@ -8,6 +8,7 @@ Para usar, hay que escribir en powershell terminal:
 python load_and_infer.py
 '''
 
+
 # Specify the path where your model and other artifacts are saved
 model_path = "C:\\Users\\dusti\\Documents\\Silbo\\beto\\model_save"
 
