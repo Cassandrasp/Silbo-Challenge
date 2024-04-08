@@ -1,0 +1,243 @@
+input,intent
+¿Cuánto cuesta?,1
+¿Puede rebajar un poco el precio?,1
+¿Tiene algún descuento?,1
+¿Tienes camisetas de mi talla?,1
+¿Ofrecen servicio de envío a domicilio?,1
+¿Tiene garantía este producto?,1
+Quiero comprar ropa,1
+¿Hay algún producto similar pero más económico?,1
+¿Ofrecen algún paquete o promoción especial?,1
+¿Hacen entregas internacionales?,1
+Quiero una chaqueta,1
+¿Vendeis calcetines?,1
+¿Cuánto tiempo tarda en llegar el pedido,1
+¿Puedo probarlo antes de comprarlo?,1
+¿Hay zapatos rosas?,1
+¿Puedo ver el catálogo completo de camisetas que ofrecen?,1
+¿Puedo probarme este pantalón?,1
+¿Cuánto tiempo tarda en llegar un pedido en línea?,1
+¿Puedo obtener ayuda para combinar esta blusa/pantalón con otros artículos?,1
+Me gustaría comprar,1
+¿Hay algún requisito mínimo de compra?,2
+¿Tienen algún catálogo que pueda revisar?,2
+¿Podría proporcionarme más detalles sobre este producto?,2
+¿Tienen algún catálogo que pueda revisar?,2
+¿Cuáles son los métodos de pago aceptados?,2
+¿Cuál es el tiempo de entrega estimado?,2
+¿Puedo solicitar muestras de tela antes de realizar una compra grande?,2
+¿Ofrecen servicio de envío internacional?,2
+¿Hay algún requisito mínimo de compra?,2
+¿Cuál es el proceso de devolución en caso de que necesite hacerlo?,2
+¿Puedo obtener información sobre los cuidados de lavado para esta prenda?,2
+¿Tienen disponibilidad de este artículo en tienda física?,2
+¿Ofrecen envío gratuito para las camisetas?,2
+¿Tienen camisetas con acabados especiales como tintes naturales o teñido anudado?,2
+¿Cuál es la política de cambio si la camiseta no me queda bien?,2
+¿Tienen camisetas de edición limitada/exclusiva?,2
+¿Esta camiseta es oversize?,2
+¿Cuál es el estilo de corte de esta camiseta?,2
+¿Cuál es el proceso de cuidado recomendado para esta camiseta?,2
+¿Tienen camisetas con bolsillos?,2
+¿Cuánto tiempo tarda en llegar una camiseta personalizada?,2
+¿Cuánto tiempo lleva su empresa en el negocio textil?,3
+¿Pueden proporcionarme información sobre los proveedores de sus telas?,3
+¿Cuál es la filosofía detrás de su marca de ropa?,3
+¿Qué medidas toman para garantizar la sostenibilidad en su producción?,3
+¿Tienen certificaciones de comercio justo o ecológicas?,3
+¿Cuál es su enfoque en cuanto a la calidad de sus productos?,3
+¿Cuál es su público objetivo principal?,3
+¿Cómo seleccionan los diseños para sus colecciones?,3
+¿Tienen algún programa de responsabilidad social corporativa?,3
+¿Qué tipo de tecnología utilizan en el proceso de fabricación?,3
+¿Cuál es su enfoque en cuanto a la calidad de sus productos?,3
+¿Qué medidas implementan para asegurar condiciones laborales justas en sus fábricas?,3
+¿Tienen políticas específicas en cuanto a la reducción de residuos y el reciclaje?,3
+¿Tienen algún programa de capacitación para los empleados?,3
+¿Cómo eligen a sus proveedores y fabricantes?,3
+¿Cuál es su enfoque en cuanto al diseño ético y responsable?,3
+¿Ofrecen oportunidades para el desarrollo profesional de sus empleados?,3
+¿Cuál es su compromiso con la transparencia en la cadena de suministro?,3
+¿Cómo se involucran con las comunidades locales donde operan?,3
+¿Qué medidas toman para minimizar su impacto ambiental durante el proceso de producción?,3
+¿Trabajan con proveedores nacionales o internacionales?,3
+Quiero comprar una camiseta roja en talla S.,1
+Estoy interesado en adquirir unos pantalones negros.,1
+Deseo comprar un vestido azul en talla M.,1
+Necesito comprar una chaqueta gris.,1
+¿Cuánto cuesta una camisa verde en talla L?,1
+¿Tienes sudaderas en negro?,1
+Busco una falda azul.,1
+Estoy buscando un jersey blanco.,1
+Quiero comprar un abrigo gris.,1
+¿Tienes shorts en azul?,1
+¿Puedo comprar una bufanda verde?,1
+¿Dónde puedo comprar un gorro rojo?,1
+¿Tienes chalecos en negro?,1
+¿Dónde puedo comprar un traje blanco?,1
+¿Hay blusas azules disponibles?,1
+¿Dónde puedo encontrar ponchos verdes?,1
+Quiero comprar un cinturón negro.,1
+¿Venden calcetines rojos?,1
+¿Cuál es el precio de las camisetas rojas?,1
+¿Tienen vestidos azules disponibles?,1
+¿Puedes decirme qué materiales se usaron para hacer esa camiseta roja?,2
+¿Podrías proporcionarme más detalles sobre los pantalones negros?,2
+"Me gustaría conocer más sobre el vestido azul en talla M, ¿tienes información adicional?",2
+¿Cuál es la composición de la chaqueta gris que tienes en stock?,2
+¿Tienes información sobre la camisa verde en talla L? Estoy interesado en saber más.,2
+¿Puedes darme más detalles sobre las sudaderas negras que vendes?,2
+Quiero saber más sobre la falda azul que tienes en tu tienda.,2
+¿Puedes proporcionarme información detallada sobre el jersey blanco?,2
+Me gustaría obtener más información sobre el abrigo gris que tienes en exhibición.,2
+¿Tienes información adicional sobre los shorts azules que vendes?,2
+¿Puedes decirme más sobre la bufanda verde que está en tu catálogo?,2
+¿Dónde puedo encontrar información sobre los gorros rojos que vendes?,2
+¿Podrías proporcionarme más detalles sobre los chalecos negros que tienes en existencia?,2
+Quiero saber más sobre los trajes blancos que tienes en tu tienda.,2
+¿Tienes información adicional sobre las blusas azules que vendes?,2
+Me gustaría obtener más detalles sobre los ponchos verdes que tienes en stock.,2
+¿Cuál es la información de los cinturones negros que tienes en tu tienda?,2
+¿Podrías proporcionarme más detalles sobre los calcetines rojos que vendes?,2
+¿Tienes información sobre los precios de las camisetas rojas que ofreces?,2
+¿Puedes decirme más sobre los vestidos azules que tienes disponibles?,2
+¿Puedes decirme quién es el vendedor de esta camiseta roja?,3
+¿Quién es el proveedor de los pantalones negros que tienes en tu tienda?,3
+¿Podrías proporcionarme más información sobre la tienda que vende el vestido azul en talla M?,3
+Me gustaría conocer más sobre la empresa que suministra la chaqueta gris.,3
+¿Quién es el fabricante de la camisa verde en talla L que vendes?,3
+¿Puedes decirme más sobre la compañía que ofrece las sudaderas negras?,3
+Quiero saber quién es el distribuidor de la falda azul que tienes en stock.,3
+¿Podrías proporcionarme información sobre el proveedor del jersey blanco?,3
+Me gustaría obtener más detalles sobre la empresa que fabrica el abrigo gris que tienes en exhibición.,3
+¿Quién es el fabricante de los shorts azules que vendes?,3
+¿Podrías decirme quién es el proveedor de la bufanda verde que está en tu catálogo?,3
+¿Dónde puedo encontrar información sobre el proveedor de los gorros rojos que vendes?,3
+Quiero saber más sobre la empresa que suministra los chalecos negros que tienes en existencia.,3
+¿Quién es el proveedor de los trajes blancos que tienes en tu tienda?,3
+¿Podrías proporcionarme más detalles sobre la compañía que ofrece las blusas azules que vendes?,3
+Me gustaría obtener información sobre el distribuidor de los ponchos verdes que tienes en stock.,3
+¿Quién es el fabricante de los cinturones negros que tienes en tu tienda?,3
+¿Podrías decirme quién es el proveedor de los calcetines rojos que vendes?,3
+Quiero conocer más sobre la empresa que suministra las camisetas rojas que ofreces.,3
+¿Puedes proporcionarme información sobre el vendedor de los vestidos azules que tienes disponibles?,3
+Quisiera comprar una camiseta.,1
+Me gustaría pedir una camiseta.,1
+Necesito una camiseta nueva.,1
+Quiero una camiseta de algodón.,1
+Estoy buscando una camiseta en talla grande.,1
+Deseo comprar una camiseta con estampado.,1
+¿Puedo pedir una camiseta en color azul?,1
+Necesitaría una camiseta de manga corta.,1
+Estoy interesado en una camiseta deportiva.,1
+Quiero comprar una camiseta para correr.,1
+Me gustaría adquirir una camiseta negra.,1
+Quisiera una camiseta sin etiqueta.,1
+Necesito una camiseta para un regalo.,1
+Deseo pedir una camiseta en talla mediana.,1
+¿Podría tener una camiseta en oferta?,1
+Estoy buscando una camiseta con cuello en V.,1
+Quiero una camiseta personalizada.,1
+Me gustaría una camiseta blanca básica.,1
+Quisiera ordenar una camiseta para el verano.,1
+Necesito una camiseta resistente al desgaste.,1
+¿De qué material está hecha esta camiseta?,2
+¿Cuál es el precio de esta camiseta?,2
+¿Tienen esta camiseta en otros colores?,2
+¿Esta camiseta está disponible en talla pequeña?,2
+¿Pueden decirme más sobre el diseño de esta camiseta?,2
+¿Esta camiseta es resistente al encogimiento?,2
+¿Cómo debo lavar esta camiseta para que no se dañe?,2
+¿Esta camiseta está hecha de algodón orgánico?,2
+¿Ofrecen descuento si compro más de una camiseta?,2
+¿Puedo personalizar esta camiseta con un diseño propio?,2
+¿Esta camiseta viene con garantía?,2
+¿De dónde se importa el material de esta camiseta?,2
+¿Esta camiseta está disponible en edición limitada?,2
+¿Tienen esta camiseta en estilo unisex?,2
+"¿Cómo se ajusta esta camiseta, es ajustada o suelta?",2
+¿Esta camiseta protege contra los rayos UV?,2
+¿Puedo ver esta camiseta en diferentes estilos?,2
+¿Cuánto tiempo tarda el envío de esta camiseta?,2
+¿Esta camiseta tiene opiniones o reseñas que pueda leer?,2
+¿Cuál es la política de devolución para esta camiseta?,2
+¿Cuánto tiempo lleva la empresa en el negocio de venta de camisetas?,3
+¿Dónde está ubicada la sede de su empresa?,3
+¿La empresa fabrica sus camisetas de manera sostenible?,3
+¿Ofrece la empresa envíos internacionales?,3
+¿Cómo se compromete su empresa con la responsabilidad social?,3
+¿Tienen tiendas físicas donde pueda ver las camisetas?,3
+¿Cómo selecciona la empresa los materiales para sus camisetas?,3
+¿Ofrece la empresa algún programa de lealtad o descuentos para clientes frecuentes?,3
+¿Cuál es la misión y los valores de su empresa?,3
+¿Cómo maneja la empresa las devoluciones y los cambios?,3
+¿La empresa colabora con diseñadores locales para sus camisetas?,3
+¿Cómo asegura la empresa la calidad de sus camisetas?,3
+¿La empresa participa en algún tipo de obras caritativas o comunitarias?,3
+¿Puede la empresa hacer envíos de camisetas a múltiples direcciones?,3
+¿Qué medidas toma la empresa para proteger la información del cliente?,3
+¿La empresa ha recibido algún premio o reconocimiento?,3
+¿Cómo maneja la empresa las quejas y sugerencias de los clientes?,3
+¿La empresa ofrece servicios de personalización para pedidos grandes?,3
+¿Cuál es la política de sostenibilidad de la empresa?,3
+¿Cómo puedo suscribirme a las actualizaciones y ofertas especiales de la empresa?,3
+Hola me gustaría comprar una camiseta blanca,1
+Quiero adquirir un pantalón,1
+¿podría comprar unos zapatos?,1
+¿Tienes camisetas de mi talla?,1
+Estoy interesado en unos pantalones vaqueros,1
+Busco una camiseta bonita,1
+Quiero comprar ropa,1
+Necesito una camiseta de manga corta para este verano,1
+Quiero unos pantalones calentitos para el invierno,1
+¿Hay zapatos de la talla 45?,1
+Estoy buscando una chaqueta a juego con mi outfit,1
+Camiseta de manga larga,1
+Necesito ropa para renovar mi armario,1
+¿Puedo comprar una chaqueta bonita?,1
+Hay camisetas azules,1
+Quiero obtener unos pantalones de esta marca,1
+Quiero conseguir una chaqueta que me proteja bien del frío,1
+Mi deseo es obtener una camiseta de tirantes,1
+Comprar pantalon rojo,1
+Buenas me gustaría una camiseta negra básica,1
+Cuál es la variedad de colores para esta camiseta,2
+Que tallas disponibles tienes del pantalon,2
+¿De qué está hecho este producto?,2
+¿Puedo personalizar esta camiseta?,2
+¿El precio de esta prenda está rebajado?,2
+¿Cuál es la calidad de impresión de los estampados de la ropa?,2
+¿Cuál es la durabilidad de la ropa?,2
+¿Cuál es la disponibilidad de esta prenda?,2
+Quiero saber si puedo meter la camiseta a la lavadora,2
+¿Si lavo los pantalones en agua caliente encongerán?,2
+Qué tipo de tela se usa en este tipo de prendas,2
+Esta prenda tiene garantía en caso de que se me rompa o se estropee,2
+Cuál es la resistencia de estos zapatos,2
+¿Este abrigo es resistente al agua?,2
+El abrigo es ajustable,2
+Este abrigo aguanta temperaturas bajo 0 grados,2
+Cuál es la longitud de la manga de esta camiseta,2
+¿Qué largo tienen pantalones vaqueros?,2
+¿Cuánto pesa el suéter?,2
+¿Podrían proporcionarme más detalles sobre el material de esta camisa?,2
+¿Cuál es la política de devolución de la empresa?,3
+¿Dónde opera la empresa?,3
+¿Tenéis política de sostenibilidad?,3
+¿Cuánta gente trabaja hay trabajando actualmente?,3
+¿Qué proceso pasan ?,3
+Tenéis garantía en la empresa,3
+En esta tienda se puede pagar con tarjeta,3
+Existe tienda física,3
+Cuál es el teléfono de contacto,3
+Si tengo una incidencia cómo puedo gestionarla,3
+Tenéis horario de atención al cliente,3
+Envíais las prendas a cualquier punto de España,3
+¿Qué tiempos trabajais de entrega de pedidos?,3
+Hay opciones de envío express,3
+Puedo recibir asistencia personal en la compra,3
+¿Cuál es la filosofía detrás de su marca de ropa? ,3
+¿Dónde fabrican sus prendas? ,3
+Hola me gustaría saber más sobre su empresa. ¿Podrían decirme cuánto tiempo llevan en el negocio?,3
+¿Tienen alguna colaboración con otras marcas o diseñadores? ,3
+¿Ofrecen algún programa de fidelización?,3
