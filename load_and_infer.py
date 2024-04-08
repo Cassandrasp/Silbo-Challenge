@@ -20,7 +20,7 @@ tokenizer = AutoTokenizer.from_pretrained(model_path)
 label_encoder_path = os.path.join(model_path, "label_encoder.pkl")
 label_encoder = joblib.load(label_encoder_path)
 
-# Function: intent of a sentence
+# Function: intent 
 def predict_intent(frase):
     # Tokenize input 
     inputs = tokenizer(frase, padding=True, truncation=True, max_length=128, return_tensors="pt")   #pt = pytorch
@@ -33,7 +33,7 @@ def predict_intent(frase):
     return predicted_label
 
 # ejemplo
-frase = "Quiero informacion sobre la camiseta azul"
+frase = "Quiero información sobre la camisa azul"
 predicted_intent = predict_intent(frase)
 print(f"Predicted intent: {predicted_intent}")
 
