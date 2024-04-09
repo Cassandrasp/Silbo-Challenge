@@ -10,7 +10,7 @@ from torch.utils.data import DataLoader, TensorDataset
 
 Para Probar: escribir "python api.py" en terminal y dejarlo.
 Despues para probar diferentes textos: ABRIR Command Prompt
-Escribir: curl -X POST -H "Content-Type: application/json" -d "{\"text\": \"Quiero información de este pantalon\"}" http://127.0.0.1:5000/v1/intention
+Escribir: curl -X POST -H "Content-Type: application/json" -d "{\"text\": \"Quiero informacion de este pantalon\"}" http://127.0.0.1:5000/v1/intention
 Cambiar frase a lo que quieras
 
 '''
