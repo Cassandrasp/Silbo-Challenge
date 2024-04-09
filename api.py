@@ -61,3 +61,42 @@ def predict_single_text(text):
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+
+'''
+Codigo para cuando tengamos los nuevos modelos y queramos adjustar este API:
+def comprar():
+    # code for "comprar" intention
+    return "Handling comprar action"
+
+def producto_info():
+    # code for product information request
+    return "Providing product information"
+
+def empresa_info():
+    # code for company information request
+    return "Providing company information"
+
+
+@app.route('/v1/intention', methods=['POST'])
+def predict_intention():
+    data = request.json
+    text = data.get('text', '')
+
+    prediction = predict_single_text(text)
+   
+    if isinstance(prediction, np.int64):
+        prediction = int(prediction)
+
+    Directly call the appropriate function based on the prediction
+    if prediction == 1:
+        response = handle_comprar()
+    elif prediction == 2:
+        response = handle_producto_info()
+    elif prediction == 3:
+        response = handle_empresa_info()
+    else:
+        response = 'Error: Invalid prediction'
+
+    return jsonify({'prediction': prediction, 'response': response})
+'''
