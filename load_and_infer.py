@@ -10,10 +10,10 @@ python load_and_infer.py
 
 model_path = "C:\\Users\\dusti\\Documents\\Silbo\\beto\\model_save"
 
-# Load the model
+# Load model
 model = AutoModelForSequenceClassification.from_pretrained(model_path)
 
-# Load the tokenizer
+# Load tokenizer
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 
 # encoder
@@ -22,10 +22,9 @@ label_encoder = joblib.load(label_encoder_path)
 
 # Function: intent 
 def predict_intent(frase):
-    # Tokenize input 
     inputs = tokenizer(frase, padding=True, truncation=True, max_length=128, return_tensors="pt")   #pt = pytorch
 
-    # Predict
+    # predict
     with torch.no_grad():
         logits = model(**inputs).logits
     predicted_label_id = logits.argmax().item()
