@@ -1,5 +1,11 @@
 # Silbo-Challenge
 
+Descripción breve del proyecto.
+
+### Requisitos previos
+Python => 3.7
+
+
 ### **Instalación**
 1. Clona este repositorio.
 
@@ -12,6 +18,7 @@
 ~~3. Ejecuta `python app.py` para iniciar la aplicación.~~
 
 ### **Estructura del proyecto** 
+Sin estructura definida hasta el momento (es el repo sucio). Se están integrando todos los modelos en la api para crear todo el flujo, mientras tanto, una guía para verlos de forma individual. 
 
 **Datos**
 -	Conjunto de datos con las frases de entrenamiento para el modelo de intenciones
