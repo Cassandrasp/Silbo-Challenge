@@ -6,23 +6,32 @@ from sklearn.preprocessing import LabelEncoder
 import torch
 from fastapi.responses import JSONResponse
 
+
+
 '''
 En el terminal escribe: uvicorn api:app --reload
 Despues, hay que ir a http://127.0.0.1:8000 o http://127.0.0.1:8000/docs (de alli puedes probar textos)
 
 '''
 
+
 class Item(BaseModel):
     text: str
 
 app = FastAPI()
 
-# Inicializar tokenizer
-tokenizer = BertTokenizer.from_pretrained("dccuchile/bert-base-spanish-wwm-cased", do_lower_case=False)
+# Cargar el tokenizer
+'''github_repo_url = "https://github.com/usuario/repo_nombre"
+tokenizer_dir = f"{github_repo_url}/{tokenizer_directory}"
+tokenizer_directory = "ruta/dentro/del/repositorio/tokenizer/"'''
 
-# Inicializar y cargar model
-model = BertForSequenceClassification.from_pretrained("dccuchile/bert-base-spanish-wwm-cased", num_labels=3)
-model.eval()  # Set the model to evaluation mode
+tokenizer = BertTokenizer.from_pretrained('C:/Users/beatr/DATA SCIENCE/Silbo sucio/Silbo-Challenge/model_save/tokenizer')
+
+# Cargar el modelo
+model = BertForSequenceClassification.from_pretrained('C:/Users/beatr/DATA SCIENCE/Silbo sucio/Silbo-Challenge/model_save')
+
+# modo de evaluación (no entrenamiento) del modelo
+model.eval()
 
 # Initicializar label encoder 
 label_encoder = LabelEncoder()
@@ -48,7 +57,6 @@ async def predict_intention(item: Item):
     return JSONResponse(content={'prediction': prediction_int, 'target_endpoint': target_endpoint},
                         headers={"Cache-Control": "no-cache, no-store, must-revalidate"})
 
-
 def predict_single_text(text: str):
     inputs = tokenizer(text, truncation=True, padding=True, max_length=128, return_tensors='pt')
     with torch.no_grad():
@@ -57,6 +65,7 @@ def predict_single_text(text: str):
         predicted_label_idx = torch.argmax(logits, dim=1).item()
         predicted_label = label_encoder.inverse_transform([predicted_label_idx])[0]
     return predicted_label
+
 
 
 '''
