@@ -1,2 +1,2 @@
-model_save/modelo_bert.pth filter=lfs diff=lfs merge=lfs -text
+#model_save/modelo_bert.pth filter=lfs diff=lfs merge=lfs -text
 
