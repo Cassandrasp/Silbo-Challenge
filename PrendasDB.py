@@ -23,6 +23,12 @@ def crearDB():
         prenda VARCHAR(100),
         talla VARCHAR(10),
         color VARCHAR(20))""")
+    
+     # Crear tabla de StockPrendas
+    cursor.execute("""CREATE TABLE IF NOT EXISTS Empresa (
+        id_prenda INTEGER PRIMARY KEY AUTOINCREMENT,
+        tipo_dato TEXT NOT NULL,
+        descripcion TEXT NOT NULL)""")
 
     # Confirmar cambios y cerrar conexión
     conexion.commit()
@@ -188,6 +194,77 @@ def eliminar_prenda_caracteristicas(id):
     conexion.commit()
     print("Prenda eliminada correctamente.")
 
+# Método CRUD: Crear una tabla de datos de empresa
+def crear_tabla_descripcion(datos_diccionario):
+    """
+    Crea una tabla SQLite con dos columnas (tipo_dato y descripcion) 
+    a partir de un diccionario.
+
+    Args:
+        datos_diccionario (dict): Diccionario con los datos a guardar.
+    """
+
+    conexion = conexionDB()
+    cursor = conexion.cursor()
+
+    # Crear la tabla
+    for dato, caracteristicas in datos_diccionario.items():
+        cursor.execute("INSERT INTO Empresa (tipo_dato, descripcion) VALUES (?, ?)", (dato, caracteristicas))
+
+    print("Tabla de empresa creada correctamente")
+    conexion.commit()
+    conexion.close()
+
+def consultar_ecostyle():
+    """
+    Consulta todos los datos de la tabla EcoStyle.
+    """
+
+    conexion = conexionDB()
+    cursor = conexion.cursor()
+
+    cursor.execute("""
+    SELECT * FROM Empresa
+    """)
+
+    datos = cursor.fetchall()
+
+    conexion.close()
+    return datos
+
+def actualizar_ecostyle(nueva_vision):
+    """
+    Actualiza la visión empresarial de EcoStyle.
+
+    Args:
+        nueva_vision (str): La nueva visión empresarial.
+    """
+
+    conexion = conexionDB()
+    cursor = conexion.cursor()
+
+    cursor.execute("""
+    UPDATE Empresa
+    SET vision_empresarial = ?
+    """, (nueva_vision,))
+
+    conexion.commit()
+    conexion.close()
+
+def eliminar_ecostyle():
+    """
+    Elimina la tabla EcoStyle (¡Precaución!).
+    """
+
+    conexion = conexionDB()
+    cursor = conexion.cursor()
+
+    cursor.execute("""
+    DROP TABLE Empresa
+    """)
+
+    conexion.commit()
+    conexion.close()
 
 #Conversor de SQL a PANDAS
 def sql_query(query):
