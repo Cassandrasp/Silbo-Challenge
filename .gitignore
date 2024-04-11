@@ -1,4 +1,5 @@
 logs/
 results/
-model_save/model.safetensors
+model_save/
+__pycache__/
 

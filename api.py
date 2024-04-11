@@ -14,7 +14,6 @@ Despues, hay que ir a http://127.0.0.1:8000 o http://127.0.0.1:8000/docs (de all
 
 '''
 
-
 class Item(BaseModel):
     text: str
 
@@ -25,10 +24,9 @@ app = FastAPI()
 tokenizer_dir = f"{github_repo_url}/{tokenizer_directory}"
 tokenizer_directory = "ruta/dentro/del/repositorio/tokenizer/"'''
 
-tokenizer = BertTokenizer.from_pretrained('C:/Users/beatr/DATA SCIENCE/Silbo sucio/Silbo-Challenge/model_save/tokenizer')
-
+tokenizer = BertTokenizer.from_pretrained('C:/Users/dusti/Documents/Silbo/beto/model_save/tokenizer')
 # Cargar el modelo
-model = BertForSequenceClassification.from_pretrained('C:/Users/beatr/DATA SCIENCE/Silbo sucio/Silbo-Challenge/model_save')
+model = BertForSequenceClassification.from_pretrained('C:/Users/dusti/Documents/Silbo/beto/model_save')
 
 # modo de evaluación (no entrenamiento) del modelo
 model.eval()
