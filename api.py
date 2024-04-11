@@ -14,7 +14,6 @@ Despues, hay que ir a http://127.0.0.1:8000 o http://127.0.0.1:8000/docs (de all
 
 '''
 
-
 class Item(BaseModel):
     text: str
 
@@ -36,6 +35,8 @@ model.eval()
 # Initicializar label encoder 
 label_encoder = LabelEncoder()
 label_encoder.classes_ = np.load('label_encoder_classes.npy', allow_pickle=True)
+
+
 
 @app.post("/v1/intention/")
 async def predict_intention(item: Item):
