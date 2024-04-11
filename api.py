@@ -35,6 +35,8 @@ model.eval()
 label_encoder = LabelEncoder()
 label_encoder.classes_ = np.load('label_encoder_classes.npy', allow_pickle=True)
 
+
+
 @app.post("/v1/intention/")
 async def predict_intention(item: Item):
     text = item.text
